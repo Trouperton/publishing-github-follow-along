@@ -1,4 +1,6 @@
-[Big Star Logo](images/logo_bigstar.svg)
+[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+
+<img src="images/logo_bigstar.svg" alt="Bigstar Collectibles Logo" style="width:300px;">
 
 Founded in 2012, Big Star Collectibles is the premier online retailer of trading card and other collectibles. If your hobby is collecting, we've got the stock you want.
 
@@ -7,4 +9,5 @@ We have the largest inventory of fan favorite items on the web. And if we don't 
 
 
 https://github.com/user-attachments/assets/70512788-8f83-4db3-900f-014834156e30
+
 
